@@ -1,0 +1,1 @@
+Tato složka obsahuje data jednotlivých hráčů
